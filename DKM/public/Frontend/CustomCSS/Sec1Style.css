@@ -1,0 +1,111 @@
+section{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    background: rgb(199, 128, 128);
+}
+.result1,.result2,.result3{
+    background: #000;
+    width: 100%;
+    height: 150px;
+}
+.left_card,.card{
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: rgb(241, 237, 237);
+    font-family: kalpurushregular !important;
+}
+.left_card .card-title{
+    background: #629640;
+    color: white;
+    padding: 8px;
+    margin-bottom: 0 !important;
+}
+.left_card img{
+    background: #000;
+}
+.left_card p{
+    text-align: justify;
+    margin:10px;
+}
+
+.left_card a{
+    text-decoration: none;
+    color: #000;
+}
+.left_card a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.slides{
+    box-shadow: 1px 1px 5px 5px #ebebeb;
+    border-radius: 2px;
+}
+.carousel-item img{
+    height: 400px;
+    border-radius: 5px;
+}
+.noticeBoard{
+    /* background: linear-gradient(to bottom, #ffffff 0%, #ebebeb 100%); */
+    padding: 50px 50px 50px 50px;
+    font-family: kalpurushregular !important;
+    box-shadow: 1px 1px 5px 5px #ebebeb;
+    z-index: -1;
+}
+.noticeBoard a{
+    text-decoration: none;
+    color: #000;
+}
+.noticeBoard a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+.box{
+    background: linear-gradient(to bottom, #ffffff 90%, #ebebeb 100%);
+    height: 190px;
+    padding: 16px;
+    color: #000;
+    box-shadow: 1px 1px 5px 5px #ebebeb;
+    font-family: kalpurushregular !important;
+}
+.box a{
+    text-decoration: none;
+    color: #000;
+}
+.box a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+.box ul{
+    padding-left: 120px;
+}
+
+
+.video{
+    background: #000;
+    width: 100%;
+    height: 150px;
+}
